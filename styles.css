@@ -1,0 +1,194 @@
+    .div1{
+        height: 1800px;
+        width: 1800px;
+        
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+      align-content: center;
+     
+
+        
+      
+    }
+    .div2{
+        height: 1600px;
+        width: 1600px;
+       
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+        align-content: center;
+       
+        
+       
+       
+
+    }
+    .div3{
+        height: 1400px;
+        width: 1400px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+        
+        align-content: center;
+        
+        
+
+    }
+    .div4{
+        height: 1200px;
+        width: 1200px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+        
+        align-content: center;
+       
+        
+
+    }
+    .div5{
+        height:1000px;
+        width: 1000px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+       
+        align-content: center;
+       
+        
+
+    }
+    .div6{
+        height: 800px;
+        width: 800px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+       
+        align-content: center;
+        
+    }
+    .div7{
+        height: 600px;
+        width: 600px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+       
+        
+        align-content: center;
+      
+        
+    }
+    .div8{
+        height: 400px;
+        width: 400px;
+        border: 1.5px solid whitesmoke;
+        border-radius: 50%;
+       
+        
+        align-content: center;
+        
+        
+
+    }
+    .mercury1{
+        height: 100px;
+        width: 100px;
+    }
+    .mercury{
+        float: right;
+        margin-right: 120px;
+        margin-top: -180px;
+    }
+    .venus1{
+        height: 100px;
+        width: 100px;
+        
+    }
+    .venus{
+        float: right;
+        margin-right: 200px;
+        margin-top: -150px;
+    }
+    .earth1{
+        height: 100px;
+        width: 100px;
+       
+    }
+    .earth{
+        float: right;
+        margin-right: 260px;
+        margin-top: -100px;
+    }
+    .mars1{
+        
+        height: 100px;
+        width: 100px;
+        
+     
+
+    }
+    .mars{
+       float: right;
+       margin-left: -240px;
+       margin-right: 340px;
+       margin-top: -150px;
+    }
+    .jupiter1{
+
+        height: 100px;
+        width: 100px;
+        
+    }
+    .jupiter{
+        float: right;
+        margin-right: 380px;
+        margin-top: -140px;
+    }
+    .saturn1{
+
+        height: 100px;
+        width: 100px;
+    }
+    .saturn{
+        float: right;
+        margin-right: 400px;
+        margin-top: -90px;
+    }
+    .uranus1{
+        height: 100px;
+        width: 100px;
+        margin-top: -25px;
+        margin-left: -25px;
+
+    }
+    .uranus{
+        margin-top: -25px;
+        margin-right: 430px;
+        float: right;
+    }
+    
+    .neptune1{
+        
+        height: 100px;
+        width: 100px;
+        
+    
+        
+       
+    }
+    .neptune{
+        margin-top:-22.5px ;
+        margin-right: 500px;
+        float: right;
+    }
+    .sun{
+        margin-top: -10px;
+        margin-right: 70px;
+      
+    }
+    .sun1{
+        height: 100px;
+        width: 100px;
+        
+    }
+    .h1{
+        margin-left: 100px;
+    }
